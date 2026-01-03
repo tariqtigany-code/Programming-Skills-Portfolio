@@ -1,8 +1,5 @@
 # # Programming Skills Portfolio
 
-
-* # Programming Skills Portfolio
-
 This repository contains all the exercises for the Programming Skills course, organized into individual folders for better structure and management.
 
 ## Exercise Index
