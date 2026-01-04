@@ -17,13 +17,14 @@ This repository contains all the exercises for the Programming Skills course, or
 | **Exercise 09** | Hello | [View Code](./Exercise-09/Hello%20-%2009.py) |
 | **Exercise 10** | Is it even? | [View Code](./Exercise-10/Is%20it%20even-%2010.py) |
 
-| Exercise | Name | Link |
-| :--- | :--- | :--- |
+
 Exercise 1: Coding is Cool- 10 Marks Fill in the blanks in the Python code below to output the phrase "Coding is Cool" to the console using variables and string concatenation. Fill in the blanks below
 word1 =
 word2 =
 word3 =
 # Use string concatenation to combine the variables and print the phrase _____(_________) Exercise
+| Exercise | Name | Link |
+| :--- | :--- | :--- |
 | **Exercise 01** | Coding Is Cool | [View Code](./Exercise-01/Coding%20Is%20Cool-01.py) |
 
 
