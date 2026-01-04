@@ -52,6 +52,7 @@ Exercise 4: Primitive Quiz - 30 Marks In this exercise, you'll create a simple p
 2. If the user's answer is correct (i.e., "Paris"), the program should print a message saying the answer is correct.
 3. If the answer is incorrect, the program should print a message saying the answer is wrong. Advanced Requirements:
 Ignore Capitalization: Modify your program to accept answers regardless of the capitalization (e.g., "paris", "Paris", and "PaRis" should all be considered correct). Multiple Questions: Extend the program into a quiz that asks for the capitals of 10 European countries. Provide feedback for each question.
+
 | Exercise | Name | Link |
 | :--- | :--- | :--- |
 | **Exercise 04** | Primitive Quiz | [View Code](./Exercise-04/Primitive%20Quiz-04.py) |
@@ -60,6 +61,7 @@ Exercise 5: Days of the Month - 30 Marks Write a program that tells a user how m
 1. Create a Dictionary: Define a dictionary where the keys are month numbers and the values are the number of days in those months.
 2. Input Handling: Ask the user to input the month number.
 3. Check and Output: Use an if-else statement to check if the input is valid and print the number of days in the corresponding month. Advanced Requirement: Leap Year Adjustment: Modify the program to account for leap years. For February, ask the user if the year is a leap year and adjust the number of days accordingly.
+
 | Exercise | Name | Link |
 | :--- | :--- | :--- |
 | **Exercise 05** | Days of the Month | [View Code](./Exercise%20-05/Days%20of%20the%20Month-05.py) |
