@@ -51,9 +51,39 @@ Exercise 5: Days of the Month - 30 Marks Write a program that tells a user how m
 1. Create a Dictionary: Define a dictionary where the keys are month numbers and the values are the number of days in those months.
 2. Input Handling: Ask the user to input the month number.
 3. Check and Output: Use an if-else statement to check if the input is valid and print the number of days in the corresponding month. Advanced Requirement: Leap Year Adjustment: Modify the program to account for leap years. For February, ask the user if the year is a leap year and adjust the number of days accordingly.
+   
 
 Exercise 6: Brute Force Attack - 30 Marks Write a program that simulates a password entry system. The correct password is defined as 12345. The program should keep asking the user to enter the password until they provide the correct one. Basic Requirements:
 1. Define the correct password.
 2. Use a while loop to repeatedly ask the user for the password until the correct one is entered.
 3. Output an appropriate message when the correct password is entered. Optional Requirements: Modify the program to include a maximum of 5 password attempts. If the user enters the wrong password, inform them of the remaining attempts. If the maximum number of attempts is reached, inform the user that the authorities have been alerted
 
+
+Exercise 7: Some Counting - 20 Marks Use your newly acquired knowledge of the for loop to complete the following tasks. Print all values to the console in each case.
+● Write a loop that counts up from 0 to 50 in increments of 1.
+● Write a loop that counts down from 50 to 0 in decrements of 1.
+● Write a loop that counts up from 30 to 50 in increments of 1.
+● Write a loop that counts down from 50 to 10 in decrements of 2.
+● Write a loop that counts up from 100 to 200 in increments of 5. You may include all loops in a single project
+
+
+
+Exercise 8: Simple Search - 30 Marks Write a program that searches for a specific string within a list of strings. The list is initialized with specific names ("Jake" "Zac", "Ian", "Ron", "Sam", "Dave"). , and your task is to search for "Sam". Optional Requirements:
+1. Allow the user to input the search term instead of using a predefined value.
+2. Implement the search functionality based on user input.
+
+Exercise 9: Hello - 10 Marks
+Fill in the blanks in the code below so that the function hello() prints "Hello" to the console.
+def hello():
+____ # Fill in this blank to print "Hello" to the console
+def main():
+____ # Fill in this blank to call the hello() function
+if __name__ == "__main__": main() Exercise
+
+
+
+Exercise 10: Is it even? - 35 Marks Write a program that tests if a value is even or odd. Follow the instructions outlined below: Instructions:
+● The program should ask the user for a number from within the main function.
+● The entered number should be passed to a function that determines if the value is even or odd.
+● The function should return a message indicating whether the number is even or odd.
+● The message returned by the function should be printed from within the main function.
