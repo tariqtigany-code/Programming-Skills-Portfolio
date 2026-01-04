@@ -69,6 +69,7 @@ Exercise 6: Brute Force Attack - 30 Marks Write a program that simulates a passw
 1. Define the correct password.
 2. Use a while loop to repeatedly ask the user for the password until the correct one is entered.
 3. Output an appropriate message when the correct password is entered. Optional Requirements: Modify the program to include a maximum of 5 password attempts. If the user enters the wrong password, inform them of the remaining attempts. If the maximum number of attempts is reached, inform the user that the authorities have been alerted
+   
 | Exercise | Name | Link |
 | :--- | :--- | :--- |
 | **Exercise 06** | Brute Force Attack | [View Code](./Exercise%20-06/Brute%20Force%20Attack%20-06.py) |
@@ -88,6 +89,7 @@ Exercise 7: Some Counting - 20 Marks Use your newly acquired knowledge of the fo
 Exercise 8: Simple Search - 30 Marks Write a program that searches for a specific string within a list of strings. The list is initialized with specific names ("Jake" "Zac", "Ian", "Ron", "Sam", "Dave"). , and your task is to search for "Sam". Optional Requirements:
 1. Allow the user to input the search term instead of using a predefined value.
 2. Implement the search functionality based on user input.
+   
 | Exercise | Name | Link |
 | :--- | :--- | :--- |
 | **Exercise 08** | Simple Search | [View Code](./Exercise-08/Simple%20Search-08.py) |
